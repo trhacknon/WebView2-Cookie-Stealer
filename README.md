@@ -10,11 +10,11 @@ This code is a modified version of <a href="https://github.com/MicrosoftEdge/Web
 
 ## Launch Example
 
-<img src="https://github.com/mrd0x/WebView2-Cookie-Stealer/blob/main/launch.gif">
+<img src="https://github.com/trhacknon/WebView2-Cookie-Stealer/blob/main/launch.gif">
 
 ## Usage Example
 
-<img src="https://github.com/mrd0x/WebView2-Cookie-Stealer/blob/main/demo2.gif">
+<img src="https://github.com/trhacknon/WebView2-Cookie-Stealer/blob/main/demo2.gif">
 
 # Usage
 
